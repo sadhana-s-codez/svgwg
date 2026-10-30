@@ -1007,7 +1007,7 @@ the <a href="#PathElementImplementationNotes">path implementation notes</a>.</p>
 
       Right: Two different paths with the same tangents to the path at
       the point where the path segments join. The behavior of the
-      miter join (fallback to bevel or clipping position) is the same
+      miter join (fallback to bevel) is the same
       for both paths. It does not depend on the position where the
       inside stroked edges intersect.
     </p>
